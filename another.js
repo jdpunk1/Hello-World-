@@ -1,0 +1,3 @@
+function appleSeed(){
+    return true;
+};
